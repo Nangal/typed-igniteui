@@ -1,0 +1,5 @@
+{
+  "name": "igniteui",
+  "main": "igniteui.d.ts",
+  "dependencies": {}
+}
