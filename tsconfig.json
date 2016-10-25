@@ -3,6 +3,6 @@
       "module": "commonjs"
   },
   "files": [
-    "ajv.d.ts"
+    "igniteui.d.ts"
   ]
 }
